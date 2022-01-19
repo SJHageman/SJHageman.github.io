@@ -9,15 +9,6 @@
     <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://SJHageman.github.io/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Telematics Work Sample</title>
-      <link>https://SJHageman.github.io/project/giraffes/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://SJHageman.github.io/project/giraffes/</guid>
-      <description>Task     The overall task for this particular work sample was to develop a predictive model that determines whether or not a car trip was &amp;ldquo;interesting&amp;rdquo; based on the telematics data provided. The data comes from the users smartphone while they are driving, and it consists of a timeseries of vehicle speed and heading derived from the phones onboard sensors. In addition to the timeseries data, 15 features about each trip are provided, including whether or not the trip was considered &amp;ldquo;interesting&amp;rdquo; by the comapny.</description>
-    </item>
-    
-    <item>
-      <title>Telematics Work Sample</title>
       <link>https://SJHageman.github.io/project/telematics/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
