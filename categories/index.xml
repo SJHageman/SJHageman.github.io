@@ -6,7 +6,25 @@
     <description>Recent content in Categories on Hugo Apéro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://SJHageman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://SJHageman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science</title>
+      <link>https://SJHageman.github.io/categories/data-science/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://SJHageman.github.io/categories/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telematics</title>
+      <link>https://SJHageman.github.io/categories/telematics/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://SJHageman.github.io/categories/telematics/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Theme Features</title>
       <link>https://SJHageman.github.io/categories/theme-features/</link>
@@ -55,7 +73,7 @@
     <item>
       <title>package</title>
       <link>https://SJHageman.github.io/categories/package/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://SJHageman.github.io/categories/package/</guid>
       <description></description>
