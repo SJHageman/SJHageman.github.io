@@ -64,12 +64,12 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Palmer Penguins</title>
-      <link>https://SJHageman.github.io/project/penguins/</link>
+      <link>https://SJHageman.github.io/project/mcmc/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://SJHageman.github.io/project/penguins/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
- Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+      <guid>https://SJHageman.github.io/project/mcmc/</guid>
+      <description>Monte-Carlo-Economy   The goal of this project is to simulate wealth distribution of a closed economy. It originally was written in c++ for a computational physics course, but has since been moved over to python. It is purely to satisfy my own curiosity. It follows from the work done by Patricia, et al. where they develop an analytical form of a non-Gibbs wealth distribution.
+The idea is to use a Markov chain Monte Carlo method to generate a wealth distribution from an arbitrary inital state.</description>
     </item>
     
     <item>
